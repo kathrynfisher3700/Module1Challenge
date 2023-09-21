@@ -2,7 +2,7 @@
 
 ## Description
 
-Welcome to the Horiseon Website [Click Here to View](file:///C:/Users/katie/OneDrive/Documents/UCF/projects/Module1Challenge/index.html). 
+Welcome to the Horiseon Website [Click Here to View](https://kathrynfisher3700.github.io/Module1Challenge/). 
 This page is the beginning framework for an interactive website. 
 Users will be able to explore the ways Horiseon can optimize their online appearance. 
 
