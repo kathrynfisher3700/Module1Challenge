@@ -7,7 +7,7 @@ This page is the beginning framework for an interactive website.
 Users will be able to explore the ways Horiseon can optimize their online appearance. 
 
 
-![Screenshot of Horiseon website](./assets\01-html-css-git-homework-demo.png)
+![Screenshot of Horiseon website](assets\01-html-css-git-homework-demo.png)
 
 ## Challenges
 
